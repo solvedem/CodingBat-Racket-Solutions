@@ -1,5 +1,5 @@
 # CodingBat-Racket-Solutions
 
-Learning Racket via codingbat.com
+Learning Racket syntax via codingbat.com
 
 http://codingbat.com/python
